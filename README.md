@@ -5,9 +5,6 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/t-vaibav-kumar-95089b263/)
 - 😄 Pronouns: VK
 
-# Skills
-HTML,CSS,JAVASCRIPT,JAVA
-
 
 
 <!---
